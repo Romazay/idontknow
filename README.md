@@ -1,3 +1,3 @@
 # idontknow
-hi, hello
+hi, work
 дописую в дописі друга
